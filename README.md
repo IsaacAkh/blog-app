@@ -1,17 +1,14 @@
+
 # Blog App
 
-This is a simple HTML-based Blog application that displays blog posts on a single page.
+## Description
+A simple blog application built with Node.js and Express, deployed on Heroku. This app demonstrates basic routing and deployment for a web application.
 
----
+## Features
+- Homepage with welcome message
+- `/posts` route to display sample blog posts in JSON format
 
-## 📌 Features
-- Static blog layout.
-- Easy to customize and add new posts.
-- Beginner-friendly structure.
-
----
-
-## 🛠 How to Run
+## Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/IsaacAkh/blog-app.git
